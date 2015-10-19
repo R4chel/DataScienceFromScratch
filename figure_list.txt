@@ -2,21 +2,21 @@ I currently intend to generate all of the figures in the book using bokeh.  This
 Figure 1-1
 Figure 1-2
 Figure 1-3
-Figure 3-1
-Figure 3-2
-Figure 3-3
-Figure 3-4
-Figure 3-5
-Figure 3-6
-Figure 3-7
-Figure 3-8
-Figure 3-9
+Figure 3-1 x
+Figure 3-2 x
+Figure 3-3 x
+Figure 3-4 x
+Figure 3-5 x
+Figure 3-6 x
+Figure 3-7 x
+Figure 3-8 x
+Figure 3-9 x
 Figure 4-1
 Figure 4-2
-Figure 5-1
-Figure 5-2
-Figure 5-3
-Figure 6-1
+Figure 5-1 x
+Figure 5-2 x
+Figure 5-3 x
+Figure 6-1 x
 Figure 6-2
 Figure 6-3
 Figure 6-4
