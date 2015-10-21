@@ -26,8 +26,8 @@ Figure 8-1
 Figure 8-2
 Figure 8-3 x
 Figure 9-1 x
-Figure 10-1
-Figure 10-2
+Figure 10-1 x
+Figure 10-2 x
 Figure 10-3
 Figure 10-4
 Figure 10-5
