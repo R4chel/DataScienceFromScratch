@@ -38,9 +38,9 @@ Figure 10-9 x
 Figure 11-1
 Figure 11-2
 Figure 12-1 x
-Figure 12-2
-Figure 12-3
-Figure 12-4
+Figure 12-2 x
+Figure 12-3 x
+Figure 12-4 x
 Figure 12-5
 Figure 12-6
 Figure 12-7
