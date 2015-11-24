@@ -20,7 +20,7 @@ This is what I am creating as I go through the book and attempt to learn the mat
 14. [Simple Linear Regression](https://github.com/R4chel/DataScienceFromScratch/blob/master/simple_linear_regression.ipynb)
 15. [Multiple Regression](https://github.com/R4chel/DataScienceFromScratch/blob/master/multiple_regression.ipynb)
 16. [Logistic Regression](https://github.com/R4chel/DataScienceFromScratch/blob/master/logistical_regression.ipynb)
-17. Decision Trees: TODO
+17. [Decision Trees](https://github.com/R4chel/DataScienceFromScratch/blob/master/decision_trees.ipynb)
 18. Neural Networks: TODO
 19. Clustering: TODO
 20. Natural Language Processing: TODO
